@@ -1,0 +1,155 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+table{
+	width: 100%;
+}
+/**header start**/
+table .header{
+	
+	background-color: #3B5998;
+	color: white;
+}
+.wrapper{
+    width: 80%;
+    margin: 0 auto;
+}
+.logo{
+	float: left;
+	width: 30%;
+    padding-top: 25px;
+}
+.logo img{
+	width: 100%;
+}
+.email-or-phone{
+	width: 18%;
+}
+.email-or-phone label{
+
+}
+.password{
+    width: 18%;
+    padding-top: 16px;
+}
+.password a{
+	color: #95A6C5;
+	text-decoration: none;
+	font-size: 15px;
+}
+.login{
+    width: 5.5%;
+    padding-top: 16px;
+}
+.login-button{
+	color: white;
+	background-color: #4267B2;
+	border-style: ridge;
+	border-radius: 3px;
+}
+input{
+margin : 5px 0;
+}
+/**header end**/
+
+/**content start**/
+.content{
+		background-color : #D5DAE9;
+
+
+}
+
+.left-content{
+	width: 40%;
+}
+
+.left-content h3 {
+	color:#0E385F;
+	    width: 75%;
+}
+.left-content img {}
+
+.right-content{
+	width: 40%;
+	    padding-left: 45px;
+	    padding-bottom: 50px;
+}
+.right-content input{
+	border-radius: 3px;
+	    border-style: unset;
+}
+.right-content label{
+	font-family: sans-serif;
+	    font-size: 16px;
+	        line-height: 2;
+
+}
+
+
+.right-content h1 {
+	font-family: sans-serif;
+    margin-bottom: 0;
+}
+.right-content h4 {
+	    font-family: sans-serif;
+    margin-top: 10px;
+    color: #1E3A84;
+}
+.first-name{
+	    font-size: 15px;
+    padding: 5px;
+}
+.surname{
+	    font-size: 15px;
+    padding: 5px;
+}
+.mobile-or-email{
+	    font-size: 15px;
+    padding: 5px;
+    width: 90%;
+}
+.new-password{
+    font-size: 15px;
+    padding: 5px;
+    width: 90%;
+}
+.birthday{
+	    width: 89%;
+}
+.birthday a{
+	
+    width: 43%;
+    
+}
+.birth-date{
+	width:60%; 
+	float: left;
+}
+.birth-date select{
+	padding: 5px;
+}
+.right-content span{
+	    font-size: 17px;
+    padding: 7px;
+        font-family: sans-serif;
+}
+.right-content p{
+    font-size: 14px;
+        width: 77%;
+        color: #968B94;
+}
+.right-content a{
+	text-decoration: none;
+    font-size: 14px;
+	color: #7A92D2;
+}
+.button{
+	    font-size: 18px;
+    padding: 5px 40px;
+    border-radius: 5px;
+    color: white;
+    background-color: #5F9C4C;
+}
+
+/**content end**/
